@@ -1,3 +1,2 @@
 # CitrusStudio
-#CitrusStudioの作業・共有用リポジトリです。
-
+#CitrusStudioの作業・共有用リポジトリです
